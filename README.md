@@ -1,7 +1,7 @@
-![ViewCount](https://views.whatilearened.today/views/github/IamShakiburRahman/IamShakiburRahman.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/IamShakiburRahman)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/shakiburcode)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakiburrahman/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shakiburrahmanshanto1@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31wwsok2swhdv5hkgnn4ohyeezyy)
@@ -58,7 +58,7 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamShakiburRahman&show_icons=true&locale=en&layout=compact" alt="IamShakiburRahman" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamShakiburRahman&show_icons=true&locale=en" alt="IamShakiburRahman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakiburcode&show_icons=true&locale=en&layout=compact" alt="shakiburcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakiburcode&show_icons=true&locale=en" alt="shakiburcode" /></p>
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
