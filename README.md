@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/iamshakibur)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/shakiburrahman_)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast and Full-Stack Softwear Developer!
+## I'm a Machine Learning/Deep Learning Enthusiast and Full-Stack Software Developer!
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
@@ -60,5 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakiburcode&show_icons=true&locale=en&layout=compact" alt="shakiburcode" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakiburcode&show_icons=true&locale=en" alt="shakiburcode" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IamShakiburRahman" alt="IamShakiburRahman" /></a> </p>
+
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
