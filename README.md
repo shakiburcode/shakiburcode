@@ -2,10 +2,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16M3c2bXR6MmR5MW85d2h6MmxncXA1cXB0djk5NXF0bzI1ejZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
-<h2 align="left">Hi Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16M3c2bXR6MmR5MW85d2h6MmxncXA1cXB0djk5NXF0bzI1ejZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+<h1 align="left">Hi Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/shakiburcode)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakiburrahman/)
