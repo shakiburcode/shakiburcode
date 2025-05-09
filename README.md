@@ -75,10 +75,3 @@
 ### My Recent post on Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shakiburcode/shakiburcode/output/snake.svg" alt="Snake animation" />
-
-###
