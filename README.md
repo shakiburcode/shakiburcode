@@ -69,10 +69,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 <br />
-#
-![](https://nirzak-streak-stats.vercel.app/?user=shakiburcode&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=shakiburcode&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcode&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
