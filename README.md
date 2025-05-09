@@ -2,8 +2,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0cmhhMnQ4NXU0ZDlndHVwbHVqdmhuZ2o0OHQ2enU5aHRleWVhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx3flR1eNqciQ/giphy.gif"  />
+<div align="right">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16M3c2bXR6MmR5MW85d2h6MmxncXA1cXB0djk5NXF0bzI1ejZzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
 
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
