@@ -1,3 +1,11 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shakiburcode&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -61,9 +69,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 <br />
-
-![](https://github-readme-stats.vercel.app/api?username=shakiburcode&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=shakiburcode&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shakiburcode&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcode&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
