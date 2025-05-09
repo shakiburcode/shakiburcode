@@ -1,9 +1,10 @@
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=shakiburcode&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0cmhhMnQ4NXU0ZDlndHVwbHVqdmhuZ2o0OHQ2enU5aHRleWVhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx3flR1eNqciQ/giphy.gif"  />
+</div>
 
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
