@@ -5,12 +5,6 @@
 [![](https://visitcount.itsvg.in/api?id=shakiburcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-![ViewCount](https://views.whatilearened.today/views/github/shakiburcode/shakiburcode.svg?cache=remove)
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ### Hi there, I'm Shakibur Rahman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/shakiburcode)
