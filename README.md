@@ -69,9 +69,6 @@
 
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
