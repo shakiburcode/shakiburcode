@@ -60,12 +60,13 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 <br />
-
-<div align="center">
-  
 ![](https://nirzak-streak-stats.vercel.app/?user=shakiburcode&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=shakiburcode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+
+<div align="center">
+  
 
 </div>
 
