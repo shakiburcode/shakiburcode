@@ -69,6 +69,8 @@
 
 </div>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiburcode&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/shakiburcode/github-readme-stats)
+
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
