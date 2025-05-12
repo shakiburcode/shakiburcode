@@ -61,6 +61,8 @@
 
 <br />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakiburcode&show_icons=true&hide_border=true)
+
 <div align="center">
 
   ![](https://nirzak-streak-stats.vercel.app/?user=shakiburcode&theme=dark&hide_border=false)<br/>
