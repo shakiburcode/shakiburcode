@@ -73,6 +73,6 @@
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
+//### My Recent post on Medium!
+// <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
 
