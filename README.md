@@ -21,9 +21,9 @@
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
   - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- Founder : a SAAS platform and exploring different global startups. 
+- Founder of a SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
-- I have graduated in Computer Science and Engineering from NSU.
+- I am a student of Computer Science and Engineering at NSU.
   
 ### ML & DS Research tools:
 
@@ -72,7 +72,4 @@
 
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-//### My Recent post on Medium!
-// <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
 
