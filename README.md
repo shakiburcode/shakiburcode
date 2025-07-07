@@ -72,6 +72,7 @@
 
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakiburcode&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
