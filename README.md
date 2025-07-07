@@ -73,3 +73,18 @@
 ## 
 ![](https://github-profile-trophy.vercel.app/?username=shakiburcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 📈 Github stats:
+
+<!--color=00bfbf-->
+
+<!--<div align="center">  -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakiburcode&show_icons=true&theme=radical" >
+    </td>
+  </tr>
+</table>
+
