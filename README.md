@@ -23,7 +23,7 @@
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - Founder of a SAAS platform and exploring different global startups. 
 - 2025/2026 Goals: Contribute more to Open Source projects.
-- I am a graduate of Computer Science and Engineering at NSU.
+- I am a graduate of Computer Science and Engineering from NSU.
   
 ### ML & DS Research tools:
 
